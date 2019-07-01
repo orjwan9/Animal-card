@@ -1,0 +1,9 @@
+.ita{font-style: italic;}
+span  {font-weight: bold;}
+ul{list-style-type:none;}
+.body1{ border-width:10px ;border-style: double;width: 300px;height:auto; 
+    border-color:gray  ; padding:0.5em ;  margin:auto;}
+.border{border:150px;border-style: solid;border-width:10px;border-width:1px; padding:0.5em ; border-color:gray; margin:1px; }
+img{margin:2px;padding: 0.5em ;}
+
+   
